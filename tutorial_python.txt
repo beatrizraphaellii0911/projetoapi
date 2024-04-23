@@ -5,3 +5,7 @@ O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipo
 Acesse o site oficial do Python (www.python.org) e clique na opção de download.Após o download do instalador, execute-o. 
 Após o download do instalador, execute-o. Na primeira tela, certifique-se de marcar a opção “Add Python to PATH” e clique em “Install Now”.
 Após a conclusão da instalação, você pode verificar se o Python foi instalado corretamente abrindo o Prompt de Comando e digitando “python –version”. Se a versão do Python for exibida, significa que a instalação foi bem-sucedida.
+
+Abra o Terminal em seu Mac ou Linux. Verifique se o Python já está instalado digitando “python –version”. Se o Python já estiver instalado, a versão será exibida. Caso contrário, você precisará instalar o Python.
+No Mac, você pode usar o Homebrew para instalar o Python. Digite o seguinte comando no Terminal: “brew install python”.
+No Linux, o Python geralmente já está instalado. No entanto, você pode verificar se está instalado digitando “python3 –version”. Se não estiver instalado, você pode instalá-lo usando o gerenciador de pacotes específico para a sua distribuição Linux. Por exemplo, no Ubuntu, você pode usar o seguinte comando: “sudo apt-get install python3”.
