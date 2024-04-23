@@ -9,3 +9,9 @@ Após a conclusão da instalação, você pode verificar se o Python foi instala
 Abra o Terminal em seu Mac ou Linux. Verifique se o Python já está instalado digitando “python –version”. Se o Python já estiver instalado, a versão será exibida. Caso contrário, você precisará instalar o Python.
 No Mac, você pode usar o Homebrew para instalar o Python. Digite o seguinte comando no Terminal: “brew install python”.
 No Linux, o Python geralmente já está instalado. No entanto, você pode verificar se está instalado digitando “python3 –version”. Se não estiver instalado, você pode instalá-lo usando o gerenciador de pacotes específico para a sua distribuição Linux. Por exemplo, no Ubuntu, você pode usar o seguinte comando: “sudo apt-get install python3”.
+
+
+tutorial virtualenv
+Virtualenvs são uma forma de isolar diversos ambientes de desenvolvimento, 
+assim permitindo ao programador utilizar versões específicas de diversos pacotes sem impactar instalações de outras aplicações ou sistemas.
+Basicamente, um ambiente virtual empacota todas as dependências que um projeto precisa e armazena em um diretório, fazendo com que nenhum pacote seja instalado diretamente no sistema operacional. 
