@@ -1,3 +1,7 @@
 O Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML). 
 Os desenvolvedores usam o Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes. 
 O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipos de sistema e agiliza o desenvolvimento.
+
+Acesse o site oficial do Python (www.python.org) e clique na opção de download.Após o download do instalador, execute-o. 
+Após o download do instalador, execute-o. Na primeira tela, certifique-se de marcar a opção “Add Python to PATH” e clique em “Install Now”.
+Após a conclusão da instalação, você pode verificar se o Python foi instalado corretamente abrindo o Prompt de Comando e digitando “python –version”. Se a versão do Python for exibida, significa que a instalação foi bem-sucedida.
