@@ -16,8 +16,13 @@ Virtualenvs são uma forma de isolar diversos ambientes de desenvolvimento,
 assim permitindo ao programador utilizar versões específicas de diversos pacotes sem impactar instalações de outras aplicações ou sistemas.
 Basicamente, um ambiente virtual empacota todas as dependências que um projeto precisa e armazena em um diretório, fazendo com que nenhum pacote seja instalado diretamente no sistema operacional. 
 
+
 Criação do virtualenv
 Abrir o terminal do git bash
 Digite o código "python -m venv .venv"
 Em seguida ative o venv com o código "source .venv/Scripts/activivate".
 
+
+Tutorial instalação Flask
+Com o virtualenv ativado insira o comando "python.exe -m pip install --upgrade pip" para atualizar o pip (opcional)
+Instale o Flask com o comando "pip install Flask"
