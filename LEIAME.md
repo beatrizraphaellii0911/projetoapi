@@ -1,0 +1,3 @@
+O diretório algorítmico é uma lista ou catálogo de algoritmos, muitas vezes organizados por categoria ou função. 
+Ele fornece informações sobre diferentes algoritmos, como suas características, uso, eficiência e exemplos de implementação.
+Esses diretórios são úteis para programadores e estudantes que buscam compreender, comparar e selecionar algoritmos apropriados para resolver problemas específicos.
